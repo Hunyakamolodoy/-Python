@@ -1,0 +1,216 @@
+
+/* Class = "UIButton"; normalTitle = "Перемешать"; ObjectID = "1ZP-5h-dn1"; */
+"1ZP-5h-dn1.normalTitle" = "Перемешать";
+
+/* Class = "UILabel"; text = "Дмитрий Селезнев"; ObjectID = "30M-rr-08P"; */
+"30M-rr-08P.text" = "Дмитрий Селезнев";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3Tm-Yx-ZoU"; */
+"3Tm-Yx-ZoU.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "3f2-fr-2i9"; */
+"3f2-fr-2i9.normalTitle" = "Сгенерировать";
+
+/* Class = "UILabel"; text = "До:"; ObjectID = "4Qg-rp-PMO"; */
+"4Qg-rp-PMO.text" = "До:";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "4x1-4C-CmZ"; */
+"4x1-4C-CmZ.normalTitle" = "Сгенерировать";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "74j-a9-Tap"; */
+"74j-a9-Tap.normalTitle" = " Скопировать";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "8Sb-Z4-wD9"; */
+"8Sb-Z4-wD9.text" = "Результат:";
+
+/* Class = "UITextField"; placeholder = "16"; ObjectID = "8rx-Iy-MFc"; */
+"8rx-Iy-MFc.placeholder" = "16";
+
+/* Class = "UINavigationItem"; title = "Случайное слово"; ObjectID = "9hD-fn-RcS"; */
+"9hD-fn-RcS.title" = "Случайное слово";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "BCU-h8-Dy6"; */
+"BCU-h8-Dy6.normalTitle" = " Скопировать";
+
+/* Class = "UILabel"; text = "От:"; ObjectID = "BZZ-6H-tj6"; */
+"BZZ-6H-tj6.text" = "От:";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "BzA-CT-0ex"; */
+"BzA-CT-0ex.normalTitle" = " Скопировать";
+
+/* Class = "UISegmentedControl"; DLC-py-RS4.segmentTitles[0] = "Заглавная"; ObjectID = "DLC-py-RS4"; */
+"DLC-py-RS4.segmentTitles[0]" = "Заглавная";
+
+/* Class = "UISegmentedControl"; DLC-py-RS4.segmentTitles[1] = "строчная"; ObjectID = "DLC-py-RS4"; */
+"DLC-py-RS4.segmentTitles[1]" = "строчная";
+
+/* Class = "UILabel"; text = "Введите имена участников через запятую без пробелов:"; ObjectID = "Drl-Ma-VyW"; */
+"Drl-Ma-VyW.text" = "Введите имена участников через запятую без пробелов:";
+
+/* Class = "UILabel"; text = "Итог:"; ObjectID = "E3q-1c-dfw"; */
+"E3q-1c-dfw.text" = "Итог:";
+
+/* Class = "UITextField"; placeholder = "8"; ObjectID = "FHm-g7-9gD"; */
+"FHm-g7-9gD.placeholder" = "8";
+
+/* Class = "UIBarButtonItem"; title = "Разработчики"; ObjectID = "GJw-76-Enn"; */
+"GJw-76-Enn.title" = "Разработчики";
+
+/* Class = "UINavigationItem"; title = "Составить команды"; ObjectID = "GmH-ZH-u6B"; */
+"GmH-ZH-u6B.title" = "Составить команды";
+
+/* Class = "UIButton"; normalTitle = "Случайное слово"; ObjectID = "Hhf-xD-WfG"; */
+"Hhf-xD-WfG.normalTitle" = "Случайное слово";
+
+/* Class = "UILabel"; text = "Слово или слова"; ObjectID = "HnD-Uf-Ub3"; */
+"HnD-Uf-Ub3.text" = "Слово или слова";
+
+/* Class = "UILabel"; text = "Ответы"; ObjectID = "I0s-Jx-RQ2"; */
+"I0s-Jx-RQ2.text" = "Ответы";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "IAa-A1-rZs"; */
+"IAa-A1-rZs.normalTitle" = " Скопировать";
+
+/* Class = "UITextField"; placeholder = "Лиза,Слава,Дима,Наташа..."; ObjectID = "IZX-Cr-hMp"; */
+"IZX-Cr-hMp.placeholder" = "Лиза,Слава,Дима,Наташа...";
+
+/* Class = "UINavigationItem"; title = "Случайное время"; ObjectID = "IfV-fy-Lvt"; */
+"IfV-fy-Lvt.title" = "Случайное время";
+
+/* Class = "UILabel"; text = "Ответ"; ObjectID = "J6S-Ce-AjS"; */
+"J6S-Ce-AjS.text" = "Ответ";
+
+/* Class = "UILabel"; text = "От:"; ObjectID = "JXl-Ls-5bp"; */
+"JXl-Ls-5bp.text" = "От:";
+
+/* Class = "UITextField"; placeholder = "100"; ObjectID = "JoJ-r1-gGy"; */
+"JoJ-r1-gGy.placeholder" = "100";
+
+/* Class = "UITabBarItem"; title = "Другое"; ObjectID = "K7K-DL-BZ6"; */
+"K7K-DL-BZ6.title" = "Другое";
+
+/* Class = "UITextField"; placeholder = "2"; ObjectID = "KVd-qv-Mc5"; */
+"KVd-qv-Mc5.placeholder" = "2";
+
+/* Class = "UITextField"; text = "2"; ObjectID = "KVd-qv-Mc5"; */
+"KVd-qv-Mc5.text" = "2";
+
+/* Class = "UITabBarItem"; title = "Цвет"; ObjectID = "KW4-HR-8nN"; */
+"KW4-HR-8nN.title" = "Цвет";
+
+/* Class = "UITextField"; placeholder = "1000"; ObjectID = "KnU-9G-R3E"; */
+"KnU-9G-R3E.placeholder" = "1000";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "Olt-qC-wp9"; */
+"Olt-qC-wp9.normalTitle" = "Сгенерировать";
+
+/* Class = "UILabel"; text = "Введите количество людей в команде:"; ObjectID = "R4K-vT-wbQ"; */
+"R4K-vT-wbQ.text" = "Введите количество людей в команде:";
+
+/* Class = "UILabel"; text = "Команды..."; ObjectID = "RVU-3G-do3"; */
+"RVU-3G-do3.text" = "Команды...";
+
+/* Class = "UILabel"; text = "#FF8A00"; ObjectID = "T3S-5n-uzL"; */
+"T3S-5n-uzL.text" = "#FF8A00";
+
+/* Class = "UILabel"; text = "Случайное число"; ObjectID = "TYk-2u-dYb"; */
+"TYk-2u-dYb.text" = "Случайное число";
+
+/* Class = "UITextField"; placeholder = "100"; ObjectID = "Xvk-1s-cd8"; */
+"Xvk-1s-cd8.placeholder" = "100";
+
+/* Class = "UILabel"; text = "Результат:"; ObjectID = "YDU-bd-EVo"; */
+"YDU-bd-EVo.text" = "Результат:";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "YYr-rB-r5V"; */
+"YYr-rB-r5V.placeholder" = "0";
+
+/* Class = "UILabel"; text = "Стоит ли мне..."; ObjectID = "ZK6-yp-90D"; */
+"ZK6-yp-90D.text" = "Стоит ли мне...";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "akV-wF-GT0"; */
+"akV-wF-GT0.normalTitle" = " Скопировать";
+
+/* Class = "UINavigationItem"; title = "Выберите режим"; ObjectID = "bfr-rv-uzO"; */
+"bfr-rv-uzO.title" = "Выберите режим";
+
+/* Class = "UILabel"; text = "Случайный цвет"; ObjectID = "byS-ro-aSV"; */
+"byS-ro-aSV.text" = "Случайный цвет";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "cCy-Pj-1wT"; */
+"cCy-Pj-1wT.normalTitle" = "Сгенерировать";
+
+/* Class = "UILabel"; text = "Количество результатов:"; ObjectID = "fbG-S0-axp"; */
+"fbG-S0-axp.text" = "Количество результатов:";
+
+/* Class = "UILabel"; text = "👍🏻"; ObjectID = "fdo-HH-4Iw"; */
+"fdo-HH-4Iw.text" = "👍🏻";
+
+/* Class = "UITextField"; placeholder = "0"; ObjectID = "gnE-0g-z8L"; */
+"gnE-0g-z8L.placeholder" = "0";
+
+/* Class = "UITabBarItem"; title = "Да или нет"; ObjectID = "hgf-Av-xNR"; */
+"hgf-Av-xNR.title" = "Да или нет";
+
+/* Class = "UINavigationItem"; title = "Лотерея"; ObjectID = "jdl-zD-qSp"; */
+"jdl-zD-qSp.title" = "Лотерея";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "jsm-i3-Yjm"; */
+"jsm-i3-Yjm.normalTitle" = "Сгенерировать";
+
+/* Class = "UILabel"; text = "X"; ObjectID = "kGY-wD-dAC"; */
+"kGY-wD-dAC.text" = "X";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "kIe-ne-chP"; */
+"kIe-ne-chP.normalTitle" = " Скопировать";
+
+/* Class = "UILabel"; text = "Вячеслав Горбатенко"; ObjectID = "kMX-4b-ljH"; */
+"kMX-4b-ljH.text" = "Вячеслав Горбатенко";
+
+/* Class = "UIButton"; normalTitle = "Сгенерировать"; ObjectID = "lq3-IY-yt1"; */
+"lq3-IY-yt1.normalTitle" = "Сгенерировать";
+
+/* Class = "UINavigationItem"; title = "Случайная буква"; ObjectID = "nX6-Ec-D62"; */
+"nX6-Ec-D62.title" = "Случайная буква";
+
+/* Class = "UILabel"; text = "До:"; ObjectID = "q2L-je-dio"; */
+"q2L-je-dio.text" = "До:";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "r3I-va-Utj"; */
+"r3I-va-Utj.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "9:41"; ObjectID = "rVo-If-9eC"; */
+"rVo-If-9eC.text" = "9:41";
+
+/* Class = "UISegmentedControl"; rVv-h0-edR.segmentTitles[0] = "Русский"; ObjectID = "rVv-h0-edR"; */
+"rVv-h0-edR.segmentTitles[0]" = "Русский";
+
+/* Class = "UISegmentedControl"; rVv-h0-edR.segmentTitles[1] = "Английский"; ObjectID = "rVv-h0-edR"; */
+"rVv-h0-edR.segmentTitles[1]" = "Английский";
+
+/* Class = "UILabel"; text = "?"; ObjectID = "uhD-bF-FF8"; */
+"uhD-bF-FF8.text" = "?";
+
+/* Class = "UILabel"; text = "Введите слова через запятую без пробелов:"; ObjectID = "uhY-2r-VMg"; */
+"uhY-2r-VMg.text" = "Введите слова через запятую без пробелов:";
+
+/* Class = "UILabel"; text = "От:"; ObjectID = "umh-sI-GhQ"; */
+"umh-sI-GhQ.text" = "От:";
+
+/* Class = "UIButton"; normalTitle = "Получить ответ"; ObjectID = "vf4-Sw-CaB"; */
+"vf4-Sw-CaB.normalTitle" = "Получить ответ";
+
+/* Class = "UITextField"; placeholder = "Введите вопрос"; ObjectID = "wEP-2L-DWa"; */
+"wEP-2L-DWa.placeholder" = "Введите вопрос";
+
+/* Class = "UIButton"; normalTitle = " Скопировать"; ObjectID = "ySM-Ac-ANu"; */
+"ySM-Ac-ANu.normalTitle" = " Скопировать";
+
+/* Class = "UILabel"; text = "До:"; ObjectID = "ybb-em-9iE"; */
+"ybb-em-9iE.text" = "До:";
+
+/* Class = "UITabBarItem"; title = "Число"; ObjectID = "zed-15-ZqD"; */
+"zed-15-ZqD.title" = "Число";
+
+/* Class = "UITextField"; placeholder = "дом,собака,апельсин,окно..."; ObjectID = "zre-vm-b8H"; */
+"zre-vm-b8H.placeholder" = "дом,собака,апельсин,окно...";
